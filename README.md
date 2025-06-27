@@ -7,8 +7,5 @@
 [Python ](https://www.python.org/downloads/)
 [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
-'''
-   creating environment
-   conda activate .conda
-'''
+ 
 
